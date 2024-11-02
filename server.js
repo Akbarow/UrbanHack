@@ -119,6 +119,13 @@ app.get('/api/routes', (req, res, next) => {
   });
 });
 
+app.get('/', function(req, res) {
+  res.sendFile(__dirname + '/index.html');
+});
+
+app.get('*',function (req, res) {
+  res.redirect('/');
+});
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);

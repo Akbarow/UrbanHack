@@ -155,7 +155,8 @@
           ];
 
 
-          for (let i = 0; i < routes.length; i++) {
+          setTimeout(() => {
+            for (let i = 0; i < routes.length; i++) {
             let route = routes[i];
             let color = contrastingColors[i % contrastingColors.length]; // Ensure color is within array bounds
 
@@ -169,6 +170,8 @@
                 }
             }, 10000 * i); // Each route starts 5 seconds after the previous route
           }
+          }, 2000);
+        
 
       });
     </script>
