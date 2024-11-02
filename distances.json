@@ -1,0 +1,2523 @@
+{
+
+    "AB": {
+        "from": "A",
+        "to": "B",
+        "distanceInMeters": 5783,
+        "duration": 763
+    },
+    "BA": {
+        "from": "B",
+        "to": "A",
+        "distanceInMeters": 5783,
+        "duration": 763
+    },
+    "AC": {
+        "from": "A",
+        "to": "C",
+        "distanceInMeters": 28447,
+        "duration": 3253
+    },
+    "CA": {
+        "from": "C",
+        "to": "A",
+        "distanceInMeters": 28447,
+        "duration": 3253
+    },
+    "AD": {
+        "from": "A",
+        "to": "D",
+        "distanceInMeters": 9417,
+        "duration": 1437
+    },
+    "DA": {
+        "from": "D",
+        "to": "A",
+        "distanceInMeters": 9417,
+        "duration": 1437
+    },
+    "AE": {
+        "from": "A",
+        "to": "E",
+        "distanceInMeters": 12640,
+        "duration": 1424
+    },
+    "EA": {
+        "from": "E",
+        "to": "A",
+        "distanceInMeters": 12640,
+        "duration": 1424
+    },
+    "AF": {
+        "from": "A",
+        "to": "F",
+        "distanceInMeters": 33240,
+        "duration": 2516
+    },
+    "FA": {
+        "from": "F",
+        "to": "A",
+        "distanceInMeters": 33240,
+        "duration": 2516
+    },
+    "AG": {
+        "from": "A",
+        "to": "G",
+        "distanceInMeters": 14293,
+        "duration": 2476
+    },
+    "GA": {
+        "from": "G",
+        "to": "A",
+        "distanceInMeters": 14293,
+        "duration": 2476
+    },
+    "AH": {
+        "from": "A",
+        "to": "H",
+        "distanceInMeters": 20448,
+        "duration": 2976
+    },
+    "HA": {
+        "from": "H",
+        "to": "A",
+        "distanceInMeters": 20448,
+        "duration": 2976
+    },
+    "AI": {
+        "from": "A",
+        "to": "I",
+        "distanceInMeters": 11200,
+        "duration": 1104
+    },
+    "IA": {
+        "from": "I",
+        "to": "A",
+        "distanceInMeters": 11200,
+        "duration": 1104
+    },
+    "AJ": {
+        "from": "A",
+        "to": "J",
+        "distanceInMeters": 6495,
+        "duration": 973
+    },
+    "JA": {
+        "from": "J",
+        "to": "A",
+        "distanceInMeters": 6495,
+        "duration": 973
+    },
+    "AK": {
+        "from": "A",
+        "to": "K",
+        "distanceInMeters": 12630,
+        "duration": 2269
+    },
+    "KA": {
+        "from": "K",
+        "to": "A",
+        "distanceInMeters": 12630,
+        "duration": 2269
+    },
+    "AL": {
+        "from": "A",
+        "to": "L",
+        "distanceInMeters": 6520,
+        "duration": 951
+    },
+    "LA": {
+        "from": "L",
+        "to": "A",
+        "distanceInMeters": 6520,
+        "duration": 951
+    },
+    "AM": {
+        "from": "A",
+        "to": "M",
+        "distanceInMeters": 18478,
+        "duration": 2711
+    },
+    "MA": {
+        "from": "M",
+        "to": "A",
+        "distanceInMeters": 18478,
+        "duration": 2711
+    },
+    "AN": {
+        "from": "A",
+        "to": "N",
+        "distanceInMeters": 8335,
+        "duration": 817
+    },
+    "NA": {
+        "from": "N",
+        "to": "A",
+        "distanceInMeters": 8335,
+        "duration": 817
+    },
+    "AO": {
+        "from": "A",
+        "to": "O",
+        "distanceInMeters": 18420,
+        "duration": 2734
+    },
+    "OA": {
+        "from": "O",
+        "to": "A",
+        "distanceInMeters": 18420,
+        "duration": 2734
+    },
+    "AP": {
+        "from": "A",
+        "to": "P",
+        "distanceInMeters": 8628,
+        "duration": 1255
+    },
+    "PA": {
+        "from": "P",
+        "to": "A",
+        "distanceInMeters": 8628,
+        "duration": 1255
+    },
+    "AQ": {
+        "from": "A",
+        "to": "Q",
+        "distanceInMeters": 17375,
+        "duration": 2607
+    },
+    "QA": {
+        "from": "Q",
+        "to": "A",
+        "distanceInMeters": 17375,
+        "duration": 2607
+    },
+    "AR": {
+        "from": "A",
+        "to": "R",
+        "distanceInMeters": 16347,
+        "duration": 1615
+    },
+    "RA": {
+        "from": "R",
+        "to": "A",
+        "distanceInMeters": 16347,
+        "duration": 1615
+    },
+    "AS": {
+        "from": "A",
+        "to": "S",
+        "distanceInMeters": 7473,
+        "duration": 1018
+    },
+    "SA": {
+        "from": "S",
+        "to": "A",
+        "distanceInMeters": 7473,
+        "duration": 1018
+    },
+    "AT": {
+        "from": "A",
+        "to": "T",
+        "distanceInMeters": 25644,
+        "duration": 3058
+    },
+    "TA": {
+        "from": "T",
+        "to": "A",
+        "distanceInMeters": 25644,
+        "duration": 3058
+    },
+    "AU": {
+        "from": "A",
+        "to": "U",
+        "distanceInMeters": 15841,
+        "duration": 1836
+    },
+    "UA": {
+        "from": "U",
+        "to": "A",
+        "distanceInMeters": 15841,
+        "duration": 1836
+    },
+    "BC": {
+        "from": "B",
+        "to": "C",
+        "distanceInMeters": 25806,
+        "duration": 3975
+    },
+    "CB": {
+        "from": "C",
+        "to": "B",
+        "distanceInMeters": 25806,
+        "duration": 3975
+    },
+    "BD": {
+        "from": "B",
+        "to": "D",
+        "distanceInMeters": 3615,
+        "duration": 771
+    },
+    "DB": {
+        "from": "D",
+        "to": "B",
+        "distanceInMeters": 3615,
+        "duration": 771
+    },
+    "BE": {
+        "from": "B",
+        "to": "E",
+        "distanceInMeters": 16380,
+        "duration": 1705
+    },
+    "EB": {
+        "from": "E",
+        "to": "B",
+        "distanceInMeters": 16380,
+        "duration": 1705
+    },
+    "BF": {
+        "from": "B",
+        "to": "F",
+        "distanceInMeters": 36980,
+        "duration": 2819
+    },
+    "FB": {
+        "from": "F",
+        "to": "B",
+        "distanceInMeters": 36980,
+        "duration": 2819
+    },
+    "BG": {
+        "from": "B",
+        "to": "G",
+        "distanceInMeters": 8785,
+        "duration": 1689
+    },
+    "GB": {
+        "from": "G",
+        "to": "B",
+        "distanceInMeters": 8785,
+        "duration": 1689
+    },
+    "BH": {
+        "from": "B",
+        "to": "H",
+        "distanceInMeters": 13769,
+        "duration": 2329
+    },
+    "HB": {
+        "from": "H",
+        "to": "B",
+        "distanceInMeters": 13769,
+        "duration": 2329
+    },
+    "BI": {
+        "from": "B",
+        "to": "I",
+        "distanceInMeters": 14941,
+        "duration": 1452
+    },
+    "IB": {
+        "from": "I",
+        "to": "B",
+        "distanceInMeters": 14941,
+        "duration": 1452
+    },
+    "BJ": {
+        "from": "B",
+        "to": "J",
+        "distanceInMeters": 4552,
+        "duration": 768
+    },
+    "JB": {
+        "from": "J",
+        "to": "B",
+        "distanceInMeters": 4552,
+        "duration": 768
+    },
+    "BK": {
+        "from": "B",
+        "to": "K",
+        "distanceInMeters": 10055,
+        "duration": 1873
+    },
+    "KB": {
+        "from": "K",
+        "to": "B",
+        "distanceInMeters": 10055,
+        "duration": 1873
+    },
+    "BL": {
+        "from": "B",
+        "to": "L",
+        "distanceInMeters": 1841,
+        "duration": 283
+    },
+    "LB": {
+        "from": "L",
+        "to": "B",
+        "distanceInMeters": 1841,
+        "duration": 283
+    },
+    "BM": {
+        "from": "B",
+        "to": "M",
+        "distanceInMeters": 12970,
+        "duration": 1879
+    },
+    "MB": {
+        "from": "M",
+        "to": "B",
+        "distanceInMeters": 12970,
+        "duration": 1879
+    },
+    "BN": {
+        "from": "B",
+        "to": "N",
+        "distanceInMeters": 12075,
+        "duration": 1121
+    },
+    "NB": {
+        "from": "N",
+        "to": "B",
+        "distanceInMeters": 12075,
+        "duration": 1121
+    },
+    "BO": {
+        "from": "B",
+        "to": "O",
+        "distanceInMeters": 12912,
+        "duration": 1910
+    },
+    "OB": {
+        "from": "O",
+        "to": "B",
+        "distanceInMeters": 12912,
+        "duration": 1910
+    },
+    "BP": {
+        "from": "B",
+        "to": "P",
+        "distanceInMeters": 3240,
+        "duration": 592
+    },
+    "PB": {
+        "from": "P",
+        "to": "B",
+        "distanceInMeters": 3240,
+        "duration": 592
+    },
+    "BQ": {
+        "from": "B",
+        "to": "Q",
+        "distanceInMeters": 11867,
+        "duration": 1758
+    },
+    "QB": {
+        "from": "Q",
+        "to": "B",
+        "distanceInMeters": 11867,
+        "duration": 1758
+    },
+    "BR": {
+        "from": "B",
+        "to": "R",
+        "distanceInMeters": 20516,
+        "duration": 1761
+    },
+    "RB": {
+        "from": "R",
+        "to": "B",
+        "distanceInMeters": 20516,
+        "duration": 1761
+    },
+    "BS": {
+        "from": "B",
+        "to": "S",
+        "distanceInMeters": 2105,
+        "duration": 369
+    },
+    "SB": {
+        "from": "S",
+        "to": "B",
+        "distanceInMeters": 2105,
+        "duration": 369
+    },
+    "BT": {
+        "from": "B",
+        "to": "T",
+        "distanceInMeters": 28453,
+        "duration": 3595
+    },
+    "TB": {
+        "from": "T",
+        "to": "B",
+        "distanceInMeters": 28453,
+        "duration": 3595
+    },
+    "BU": {
+        "from": "B",
+        "to": "U",
+        "distanceInMeters": 19581,
+        "duration": 2115
+    },
+    "UB": {
+        "from": "U",
+        "to": "B",
+        "distanceInMeters": 19581,
+        "duration": 2115
+    },
+    "CD": {
+        "from": "C",
+        "to": "D",
+        "distanceInMeters": 25716,
+        "duration": 3653
+    },
+    "DC": {
+        "from": "D",
+        "to": "C",
+        "distanceInMeters": 25716,
+        "duration": 3653
+    },
+    "CE": {
+        "from": "C",
+        "to": "E",
+        "distanceInMeters": 18443,
+        "duration": 2405
+    },
+    "EC": {
+        "from": "E",
+        "to": "C",
+        "distanceInMeters": 18443,
+        "duration": 2405
+    },
+    "CF": {
+        "from": "C",
+        "to": "F",
+        "distanceInMeters": 15370,
+        "duration": 1257
+    },
+    "FC": {
+        "from": "F",
+        "to": "C",
+        "distanceInMeters": 15370,
+        "duration": 1257
+    },
+    "CG": {
+        "from": "C",
+        "to": "G",
+        "distanceInMeters": 19507,
+        "duration": 2394
+    },
+    "GC": {
+        "from": "G",
+        "to": "C",
+        "distanceInMeters": 19507,
+        "duration": 2394
+    },
+    "CH": {
+        "from": "C",
+        "to": "H",
+        "distanceInMeters": 17610,
+        "duration": 2369
+    },
+    "HC": {
+        "from": "H",
+        "to": "C",
+        "distanceInMeters": 17610,
+        "duration": 2369
+    },
+    "CI": {
+        "from": "C",
+        "to": "I",
+        "distanceInMeters": 19025,
+        "duration": 2367
+    },
+    "IC": {
+        "from": "I",
+        "to": "C",
+        "distanceInMeters": 19025,
+        "duration": 2367
+    },
+    "CJ": {
+        "from": "C",
+        "to": "J",
+        "distanceInMeters": 34205,
+        "duration": 4111
+    },
+    "JC": {
+        "from": "J",
+        "to": "C",
+        "distanceInMeters": 34205,
+        "duration": 4111
+    },
+    "CK": {
+        "from": "C",
+        "to": "K",
+        "distanceInMeters": 19742,
+        "duration": 3016
+    },
+    "KC": {
+        "from": "K",
+        "to": "C",
+        "distanceInMeters": 19742,
+        "duration": 3016
+    },
+    "CL": {
+        "from": "C",
+        "to": "L",
+        "distanceInMeters": 25888,
+        "duration": 3661
+    },
+    "LC": {
+        "from": "L",
+        "to": "C",
+        "distanceInMeters": 25888,
+        "duration": 3661
+    },
+    "CM": {
+        "from": "C",
+        "to": "M",
+        "distanceInMeters": 25966,
+        "duration": 3188
+    },
+    "MC": {
+        "from": "M",
+        "to": "C",
+        "distanceInMeters": 25966,
+        "duration": 3188
+    },
+    "CN": {
+        "from": "C",
+        "to": "N",
+        "distanceInMeters": 24545,
+        "duration": 3236
+    },
+    "NC": {
+        "from": "N",
+        "to": "C",
+        "distanceInMeters": 24545,
+        "duration": 3236
+    },
+    "CO": {
+        "from": "C",
+        "to": "O",
+        "distanceInMeters": 19248,
+        "duration": 2792
+    },
+    "OC": {
+        "from": "O",
+        "to": "C",
+        "distanceInMeters": 19248,
+        "duration": 2792
+    },
+    "CP": {
+        "from": "C",
+        "to": "P",
+        "distanceInMeters": 22983,
+        "duration": 3260
+    },
+    "PC": {
+        "from": "P",
+        "to": "C",
+        "distanceInMeters": 22983,
+        "duration": 3260
+    },
+    "CQ": {
+        "from": "C",
+        "to": "Q",
+        "distanceInMeters": 22097,
+        "duration": 2761
+    },
+    "QC": {
+        "from": "Q",
+        "to": "C",
+        "distanceInMeters": 22097,
+        "duration": 2761
+    },
+    "CR": {
+        "from": "C",
+        "to": "R",
+        "distanceInMeters": 26998,
+        "duration": 3364
+    },
+    "RC": {
+        "from": "R",
+        "to": "C",
+        "distanceInMeters": 26998,
+        "duration": 3364
+    },
+    "CS": {
+        "from": "C",
+        "to": "S",
+        "distanceInMeters": 23922,
+        "duration": 3328
+    },
+    "SC": {
+        "from": "S",
+        "to": "C",
+        "distanceInMeters": 23922,
+        "duration": 3328
+    },
+    "CT": {
+        "from": "C",
+        "to": "T",
+        "distanceInMeters": 10708,
+        "duration": 1036
+    },
+    "TC": {
+        "from": "T",
+        "to": "C",
+        "distanceInMeters": 10708,
+        "duration": 1036
+    },
+    "CU": {
+        "from": "C",
+        "to": "U",
+        "distanceInMeters": 14020,
+        "duration": 1745
+    },
+    "UC": {
+        "from": "U",
+        "to": "C",
+        "distanceInMeters": 14020,
+        "duration": 1745
+    },
+    "DE": {
+        "from": "D",
+        "to": "E",
+        "distanceInMeters": 19903,
+        "duration": 2165
+    },
+    "ED": {
+        "from": "E",
+        "to": "D",
+        "distanceInMeters": 19903,
+        "duration": 2165
+    },
+    "DF": {
+        "from": "D",
+        "to": "F",
+        "distanceInMeters": 35753,
+        "duration": 3605
+    },
+    "FD": {
+        "from": "F",
+        "to": "D",
+        "distanceInMeters": 35753,
+        "duration": 3605
+    },
+    "DG": {
+        "from": "D",
+        "to": "G",
+        "distanceInMeters": 8650,
+        "duration": 1533
+    },
+    "GD": {
+        "from": "G",
+        "to": "D",
+        "distanceInMeters": 8650,
+        "duration": 1533
+    },
+    "DH": {
+        "from": "D",
+        "to": "H",
+        "distanceInMeters": 13634,
+        "duration": 2098
+    },
+    "HD": {
+        "from": "H",
+        "to": "D",
+        "distanceInMeters": 13634,
+        "duration": 2098
+    },
+    "DI": {
+        "from": "D",
+        "to": "I",
+        "distanceInMeters": 18463,
+        "duration": 1922
+    },
+    "ID": {
+        "from": "I",
+        "to": "D",
+        "distanceInMeters": 18463,
+        "duration": 1922
+    },
+    "DJ": {
+        "from": "D",
+        "to": "J",
+        "distanceInMeters": 7062,
+        "duration": 1065
+    },
+    "JD": {
+        "from": "J",
+        "to": "D",
+        "distanceInMeters": 7062,
+        "duration": 1065
+    },
+    "DK": {
+        "from": "D",
+        "to": "K",
+        "distanceInMeters": 12218,
+        "duration": 2276
+    },
+    "KD": {
+        "from": "K",
+        "to": "D",
+        "distanceInMeters": 12218,
+        "duration": 2276
+    },
+    "DL": {
+        "from": "D",
+        "to": "L",
+        "distanceInMeters": 3925,
+        "duration": 607
+    },
+    "LD": {
+        "from": "L",
+        "to": "D",
+        "distanceInMeters": 3925,
+        "duration": 607
+    },
+    "DM": {
+        "from": "D",
+        "to": "M",
+        "distanceInMeters": 12834,
+        "duration": 1682
+    },
+    "MD": {
+        "from": "M",
+        "to": "D",
+        "distanceInMeters": 12834,
+        "duration": 1682
+    },
+    "DN": {
+        "from": "D",
+        "to": "N",
+        "distanceInMeters": 15598,
+        "duration": 1597
+    },
+    "ND": {
+        "from": "N",
+        "to": "D",
+        "distanceInMeters": 15598,
+        "duration": 1597
+    },
+    "DO": {
+        "from": "D",
+        "to": "O",
+        "distanceInMeters": 12777,
+        "duration": 1781
+    },
+    "OD": {
+        "from": "O",
+        "to": "D",
+        "distanceInMeters": 12777,
+        "duration": 1781
+    },
+    "DP": {
+        "from": "D",
+        "to": "P",
+        "distanceInMeters": 4927,
+        "duration": 896
+    },
+    "PD": {
+        "from": "P",
+        "to": "D",
+        "distanceInMeters": 4927,
+        "duration": 896
+    },
+    "DQ": {
+        "from": "D",
+        "to": "Q",
+        "distanceInMeters": 11731,
+        "duration": 1617
+    },
+    "QD": {
+        "from": "Q",
+        "to": "D",
+        "distanceInMeters": 11731,
+        "duration": 1617
+    },
+    "DR": {
+        "from": "D",
+        "to": "R",
+        "distanceInMeters": 24039,
+        "duration": 2232
+    },
+    "RD": {
+        "from": "R",
+        "to": "D",
+        "distanceInMeters": 24039,
+        "duration": 2232
+    },
+    "DS": {
+        "from": "D",
+        "to": "S",
+        "distanceInMeters": 5326,
+        "duration": 792
+    },
+    "SD": {
+        "from": "S",
+        "to": "D",
+        "distanceInMeters": 5326,
+        "duration": 792
+    },
+    "DT": {
+        "from": "D",
+        "to": "T",
+        "distanceInMeters": 29756,
+        "duration": 4403
+    },
+    "TD": {
+        "from": "T",
+        "to": "D",
+        "distanceInMeters": 29756,
+        "duration": 4403
+    },
+    "DU": {
+        "from": "D",
+        "to": "U",
+        "distanceInMeters": 18353,
+        "duration": 2829
+    },
+    "UD": {
+        "from": "U",
+        "to": "D",
+        "distanceInMeters": 18353,
+        "duration": 2829
+    },
+    "EF": {
+        "from": "E",
+        "to": "F",
+        "distanceInMeters": 15560,
+        "duration": 2047
+    },
+    "FE": {
+        "from": "F",
+        "to": "E",
+        "distanceInMeters": 15560,
+        "duration": 2047
+    },
+    "EG": {
+        "from": "E",
+        "to": "G",
+        "distanceInMeters": 17554,
+        "duration": 2603
+    },
+    "GE": {
+        "from": "G",
+        "to": "E",
+        "distanceInMeters": 17554,
+        "duration": 2603
+    },
+    "EH": {
+        "from": "E",
+        "to": "H",
+        "distanceInMeters": 21028,
+        "duration": 2888
+    },
+    "HE": {
+        "from": "H",
+        "to": "E",
+        "distanceInMeters": 21028,
+        "duration": 2888
+    },
+    "EI": {
+        "from": "E",
+        "to": "I",
+        "distanceInMeters": 4017,
+        "duration": 697
+    },
+    "IE": {
+        "from": "I",
+        "to": "E",
+        "distanceInMeters": 4017,
+        "duration": 697
+    },
+    "EJ": {
+        "from": "E",
+        "to": "J",
+        "distanceInMeters": 17540,
+        "duration": 2309
+    },
+    "JE": {
+        "from": "J",
+        "to": "E",
+        "distanceInMeters": 17540,
+        "duration": 2309
+    },
+    "EK": {
+        "from": "E",
+        "to": "K",
+        "distanceInMeters": 11515,
+        "duration": 2252
+    },
+    "KE": {
+        "from": "K",
+        "to": "E",
+        "distanceInMeters": 11515,
+        "duration": 2252
+    },
+    "EL": {
+        "from": "E",
+        "to": "L",
+        "distanceInMeters": 17565,
+        "duration": 2278
+    },
+    "LE": {
+        "from": "L",
+        "to": "E",
+        "distanceInMeters": 17565,
+        "duration": 2278
+    },
+    "EM": {
+        "from": "E",
+        "to": "M",
+        "distanceInMeters": 24013,
+        "duration": 3375
+    },
+    "ME": {
+        "from": "M",
+        "to": "E",
+        "distanceInMeters": 24013,
+        "duration": 3375
+    },
+    "EN": {
+        "from": "E",
+        "to": "N",
+        "distanceInMeters": 7879,
+        "duration": 1359
+    },
+    "NE": {
+        "from": "N",
+        "to": "E",
+        "distanceInMeters": 7879,
+        "duration": 1359
+    },
+    "EO": {
+        "from": "E",
+        "to": "O",
+        "distanceInMeters": 22666,
+        "duration": 3347
+    },
+    "OE": {
+        "from": "O",
+        "to": "E",
+        "distanceInMeters": 22666,
+        "duration": 3347
+    },
+    "EP": {
+        "from": "E",
+        "to": "P",
+        "distanceInMeters": 11873,
+        "duration": 2139
+    },
+    "PE": {
+        "from": "P",
+        "to": "E",
+        "distanceInMeters": 11873,
+        "duration": 2139
+    },
+    "EQ": {
+        "from": "E",
+        "to": "Q",
+        "distanceInMeters": 17101,
+        "duration": 2768
+    },
+    "QE": {
+        "from": "Q",
+        "to": "E",
+        "distanceInMeters": 17101,
+        "duration": 2768
+    },
+    "ER": {
+        "from": "E",
+        "to": "R",
+        "distanceInMeters": 10176,
+        "duration": 1467
+    },
+    "RE": {
+        "from": "R",
+        "to": "E",
+        "distanceInMeters": 10176,
+        "duration": 1467
+    },
+    "ES": {
+        "from": "E",
+        "to": "S",
+        "distanceInMeters": 12446,
+        "duration": 2205
+    },
+    "SE": {
+        "from": "S",
+        "to": "E",
+        "distanceInMeters": 12446,
+        "duration": 2205
+    },
+    "ET": {
+        "from": "E",
+        "to": "T",
+        "distanceInMeters": 14625,
+        "duration": 2045
+    },
+    "TE": {
+        "from": "T",
+        "to": "E",
+        "distanceInMeters": 14625,
+        "duration": 2045
+    },
+    "EU": {
+        "from": "E",
+        "to": "U",
+        "distanceInMeters": 4821,
+        "duration": 869
+    },
+    "UE": {
+        "from": "U",
+        "to": "E",
+        "distanceInMeters": 4821,
+        "duration": 869
+    },
+    "FG": {
+        "from": "F",
+        "to": "G",
+        "distanceInMeters": 24715,
+        "duration": 3245
+    },
+    "GF": {
+        "from": "G",
+        "to": "F",
+        "distanceInMeters": 24715,
+        "duration": 3245
+    },
+    "FH": {
+        "from": "F",
+        "to": "H",
+        "distanceInMeters": 30556,
+        "duration": 3258
+    },
+    "HF": {
+        "from": "H",
+        "to": "F",
+        "distanceInMeters": 30556,
+        "duration": 3258
+    },
+    "FI": {
+        "from": "F",
+        "to": "I",
+        "distanceInMeters": 16204,
+        "duration": 1871
+    },
+    "IF": {
+        "from": "I",
+        "to": "F",
+        "distanceInMeters": 16204,
+        "duration": 1871
+    },
+    "FJ": {
+        "from": "F",
+        "to": "J",
+        "distanceInMeters": 37395,
+        "duration": 3187
+    },
+    "JF": {
+        "from": "J",
+        "to": "F",
+        "distanceInMeters": 37395,
+        "duration": 3187
+    },
+    "FK": {
+        "from": "F",
+        "to": "K",
+        "distanceInMeters": 18676,
+        "duration": 2921
+    },
+    "KF": {
+        "from": "K",
+        "to": "F",
+        "distanceInMeters": 18676,
+        "duration": 2921
+    },
+    "FL": {
+        "from": "F",
+        "to": "L",
+        "distanceInMeters": 37420,
+        "duration": 3152
+    },
+    "LF": {
+        "from": "L",
+        "to": "F",
+        "distanceInMeters": 37420,
+        "duration": 3152
+    },
+    "FM": {
+        "from": "F",
+        "to": "M",
+        "distanceInMeters": 31173,
+        "duration": 4102
+    },
+    "MF": {
+        "from": "M",
+        "to": "F",
+        "distanceInMeters": 31173,
+        "duration": 4102
+    },
+    "FN": {
+        "from": "F",
+        "to": "N",
+        "distanceInMeters": 27735,
+        "duration": 2237
+    },
+    "NF": {
+        "from": "N",
+        "to": "F",
+        "distanceInMeters": 27735,
+        "duration": 2237
+    },
+    "FO": {
+        "from": "F",
+        "to": "O",
+        "distanceInMeters": 32194,
+        "duration": 3707
+    },
+    "OF": {
+        "from": "O",
+        "to": "F",
+        "distanceInMeters": 32194,
+        "duration": 3707
+    },
+    "FP": {
+        "from": "F",
+        "to": "P",
+        "distanceInMeters": 31728,
+        "duration": 2991
+    },
+    "PF": {
+        "from": "P",
+        "to": "F",
+        "distanceInMeters": 31728,
+        "duration": 2991
+    },
+    "FQ": {
+        "from": "F",
+        "to": "Q",
+        "distanceInMeters": 24261,
+        "duration": 3431
+    },
+    "QF": {
+        "from": "Q",
+        "to": "F",
+        "distanceInMeters": 24261,
+        "duration": 3431
+    },
+    "FR": {
+        "from": "F",
+        "to": "R",
+        "distanceInMeters": 30120,
+        "duration": 2497
+    },
+    "RF": {
+        "from": "R",
+        "to": "F",
+        "distanceInMeters": 30120,
+        "duration": 2497
+    },
+    "FS": {
+        "from": "F",
+        "to": "S",
+        "distanceInMeters": 32302,
+        "duration": 3053
+    },
+    "SF": {
+        "from": "S",
+        "to": "F",
+        "distanceInMeters": 32302,
+        "duration": 3053
+    },
+    "FT": {
+        "from": "F",
+        "to": "T",
+        "distanceInMeters": 5447,
+        "duration": 549
+    },
+    "TF": {
+        "from": "T",
+        "to": "F",
+        "distanceInMeters": 5447,
+        "duration": 549
+    },
+    "FU": {
+        "from": "F",
+        "to": "U",
+        "distanceInMeters": 11198,
+        "duration": 1236
+    },
+    "UF": {
+        "from": "U",
+        "to": "F",
+        "distanceInMeters": 11198,
+        "duration": 1236
+    },
+    "GH": {
+        "from": "G",
+        "to": "H",
+        "distanceInMeters": 5185,
+        "duration": 692
+    },
+    "HG": {
+        "from": "H",
+        "to": "G",
+        "distanceInMeters": 5185,
+        "duration": 692
+    },
+    "GI": {
+        "from": "G",
+        "to": "I",
+        "distanceInMeters": 17953,
+        "duration": 3171
+    },
+    "IG": {
+        "from": "I",
+        "to": "G",
+        "distanceInMeters": 17953,
+        "duration": 3171
+    },
+    "GJ": {
+        "from": "G",
+        "to": "J",
+        "distanceInMeters": 13459,
+        "duration": 2832
+    },
+    "JG": {
+        "from": "J",
+        "to": "G",
+        "distanceInMeters": 13459,
+        "duration": 2832
+    },
+    "GK": {
+        "from": "G",
+        "to": "K",
+        "distanceInMeters": 6601,
+        "duration": 1623
+    },
+    "KG": {
+        "from": "K",
+        "to": "G",
+        "distanceInMeters": 6601,
+        "duration": 1623
+    },
+    "GL": {
+        "from": "G",
+        "to": "L",
+        "distanceInMeters": 10723,
+        "duration": 2392
+    },
+    "LG": {
+        "from": "L",
+        "to": "G",
+        "distanceInMeters": 10723,
+        "duration": 2392
+    },
+    "GM": {
+        "from": "G",
+        "to": "M",
+        "distanceInMeters": 7726,
+        "duration": 1121
+    },
+    "MG": {
+        "from": "M",
+        "to": "G",
+        "distanceInMeters": 7726,
+        "duration": 1121
+    },
+    "GN": {
+        "from": "G",
+        "to": "N",
+        "distanceInMeters": 14175,
+        "duration": 2987
+    },
+    "NG": {
+        "from": "N",
+        "to": "G",
+        "distanceInMeters": 14175,
+        "duration": 2987
+    },
+    "GO": {
+        "from": "G",
+        "to": "O",
+        "distanceInMeters": 6302,
+        "duration": 965
+    },
+    "OG": {
+        "from": "O",
+        "to": "G",
+        "distanceInMeters": 6302,
+        "duration": 965
+    },
+    "GP": {
+        "from": "G",
+        "to": "P",
+        "distanceInMeters": 6991,
+        "duration": 1840
+    },
+    "PG": {
+        "from": "P",
+        "to": "G",
+        "distanceInMeters": 6991,
+        "duration": 1840
+    },
+    "GQ": {
+        "from": "G",
+        "to": "Q",
+        "distanceInMeters": 2791,
+        "duration": 467
+    },
+    "QG": {
+        "from": "Q",
+        "to": "G",
+        "distanceInMeters": 2791,
+        "duration": 467
+    },
+    "GR": {
+        "from": "G",
+        "to": "R",
+        "distanceInMeters": 20761,
+        "duration": 3804
+    },
+    "RG": {
+        "from": "R",
+        "to": "G",
+        "distanceInMeters": 20761,
+        "duration": 3804
+    },
+    "GS": {
+        "from": "G",
+        "to": "S",
+        "distanceInMeters": 7929,
+        "duration": 1963
+    },
+    "SG": {
+        "from": "S",
+        "to": "G",
+        "distanceInMeters": 7929,
+        "duration": 1963
+    },
+    "GT": {
+        "from": "G",
+        "to": "T",
+        "distanceInMeters": 28684,
+        "duration": 3552
+    },
+    "TG": {
+        "from": "T",
+        "to": "G",
+        "distanceInMeters": 28684,
+        "duration": 3552
+    },
+    "GU": {
+        "from": "G",
+        "to": "U",
+        "distanceInMeters": 15644,
+        "duration": 2986
+    },
+    "UG": {
+        "from": "U",
+        "to": "G",
+        "distanceInMeters": 15644,
+        "duration": 2986
+    },
+    "HI": {
+        "from": "H",
+        "to": "I",
+        "distanceInMeters": 22211,
+        "duration": 3441
+    },
+    "IH": {
+        "from": "I",
+        "to": "H",
+        "distanceInMeters": 22211,
+        "duration": 3441
+    },
+    "HJ": {
+        "from": "H",
+        "to": "J",
+        "distanceInMeters": 17371,
+        "duration": 3221
+    },
+    "JH": {
+        "from": "J",
+        "to": "H",
+        "distanceInMeters": 17371,
+        "duration": 3221
+    },
+    "HK": {
+        "from": "H",
+        "to": "K",
+        "distanceInMeters": 9581,
+        "duration": 1581
+    },
+    "KH": {
+        "from": "K",
+        "to": "H",
+        "distanceInMeters": 9581,
+        "duration": 1581
+    },
+    "HL": {
+        "from": "H",
+        "to": "L",
+        "distanceInMeters": 14635,
+        "duration": 2729
+    },
+    "LH": {
+        "from": "L",
+        "to": "H",
+        "distanceInMeters": 14635,
+        "duration": 2729
+    },
+    "HM": {
+        "from": "H",
+        "to": "M",
+        "distanceInMeters": 7494,
+        "duration": 1195
+    },
+    "MH": {
+        "from": "M",
+        "to": "H",
+        "distanceInMeters": 7494,
+        "duration": 1195
+    },
+    "HN": {
+        "from": "H",
+        "to": "N",
+        "distanceInMeters": 18528,
+        "duration": 2908
+    },
+    "NH": {
+        "from": "N",
+        "to": "H",
+        "distanceInMeters": 18528,
+        "duration": 2908
+    },
+    "HO": {
+        "from": "H",
+        "to": "O",
+        "distanceInMeters": 6542,
+        "duration": 950
+    },
+    "OH": {
+        "from": "O",
+        "to": "H",
+        "distanceInMeters": 6542,
+        "duration": 950
+    },
+    "HP": {
+        "from": "H",
+        "to": "P",
+        "distanceInMeters": 10902,
+        "duration": 2247
+    },
+    "PH": {
+        "from": "P",
+        "to": "H",
+        "distanceInMeters": 10902,
+        "duration": 2247
+    },
+    "HQ": {
+        "from": "H",
+        "to": "Q",
+        "distanceInMeters": 3629,
+        "duration": 566
+    },
+    "QH": {
+        "from": "Q",
+        "to": "H",
+        "distanceInMeters": 3629,
+        "duration": 566
+    },
+    "HR": {
+        "from": "H",
+        "to": "R",
+        "distanceInMeters": 27357,
+        "duration": 3917
+    },
+    "RH": {
+        "from": "R",
+        "to": "H",
+        "distanceInMeters": 27357,
+        "duration": 3917
+    },
+    "HS": {
+        "from": "H",
+        "to": "S",
+        "distanceInMeters": 11841,
+        "duration": 2281
+    },
+    "SH": {
+        "from": "S",
+        "to": "H",
+        "distanceInMeters": 11841,
+        "duration": 2281
+    },
+    "HT": {
+        "from": "H",
+        "to": "T",
+        "distanceInMeters": 56517,
+        "duration": 3344
+    },
+    "TH": {
+        "from": "T",
+        "to": "H",
+        "distanceInMeters": 56517,
+        "duration": 3344
+    },
+    "HU": {
+        "from": "H",
+        "to": "U",
+        "distanceInMeters": 16620,
+        "duration": 2834
+    },
+    "UH": {
+        "from": "U",
+        "to": "H",
+        "distanceInMeters": 16620,
+        "duration": 2834
+    },
+    "IJ": {
+        "from": "I",
+        "to": "J",
+        "distanceInMeters": 15261,
+        "duration": 1880
+    },
+    "JI": {
+        "from": "J",
+        "to": "I",
+        "distanceInMeters": 15261,
+        "duration": 1880
+    },
+    "IK": {
+        "from": "I",
+        "to": "K",
+        "distanceInMeters": 11803,
+        "duration": 2265
+    },
+    "KI": {
+        "from": "K",
+        "to": "I",
+        "distanceInMeters": 11803,
+        "duration": 2265
+    },
+    "IL": {
+        "from": "I",
+        "to": "L",
+        "distanceInMeters": 15286,
+        "duration": 1815
+    },
+    "LI": {
+        "from": "L",
+        "to": "I",
+        "distanceInMeters": 15286,
+        "duration": 1815
+    },
+    "IM": {
+        "from": "I",
+        "to": "M",
+        "distanceInMeters": 20823,
+        "duration": 3908
+    },
+    "MI": {
+        "from": "M",
+        "to": "I",
+        "distanceInMeters": 20823,
+        "duration": 3908
+    },
+    "IN": {
+        "from": "I",
+        "to": "N",
+        "distanceInMeters": 5601,
+        "duration": 889
+    },
+    "NI": {
+        "from": "N",
+        "to": "I",
+        "distanceInMeters": 5601,
+        "duration": 889
+    },
+    "IO": {
+        "from": "I",
+        "to": "O",
+        "distanceInMeters": 20766,
+        "duration": 3947
+    },
+    "OI": {
+        "from": "O",
+        "to": "I",
+        "distanceInMeters": 20766,
+        "duration": 3947
+    },
+    "IP": {
+        "from": "I",
+        "to": "P",
+        "distanceInMeters": 9595,
+        "duration": 1704
+    },
+    "PI": {
+        "from": "P",
+        "to": "I",
+        "distanceInMeters": 9595,
+        "duration": 1704
+    },
+    "IQ": {
+        "from": "I",
+        "to": "Q",
+        "distanceInMeters": 17367,
+        "duration": 3562
+    },
+    "QI": {
+        "from": "Q",
+        "to": "I",
+        "distanceInMeters": 17367,
+        "duration": 3562
+    },
+    "IR": {
+        "from": "I",
+        "to": "R",
+        "distanceInMeters": 7986,
+        "duration": 1081
+    },
+    "RI": {
+        "from": "R",
+        "to": "I",
+        "distanceInMeters": 7986,
+        "duration": 1081
+    },
+    "IS": {
+        "from": "I",
+        "to": "S",
+        "distanceInMeters": 10168,
+        "duration": 1740
+    },
+    "SI": {
+        "from": "S",
+        "to": "I",
+        "distanceInMeters": 10168,
+        "duration": 1740
+    },
+    "IT": {
+        "from": "I",
+        "to": "T",
+        "distanceInMeters": 15741,
+        "duration": 2089
+    },
+    "TI": {
+        "from": "T",
+        "to": "I",
+        "distanceInMeters": 15741,
+        "duration": 2089
+    },
+    "IU": {
+        "from": "I",
+        "to": "U",
+        "distanceInMeters": 6512,
+        "duration": 896
+    },
+    "UI": {
+        "from": "U",
+        "to": "I",
+        "distanceInMeters": 6512,
+        "duration": 896
+    },
+    "JK": {
+        "from": "J",
+        "to": "K",
+        "distanceInMeters": 14366,
+        "duration": 2640
+    },
+    "KJ": {
+        "from": "K",
+        "to": "J",
+        "distanceInMeters": 14366,
+        "duration": 2640
+    },
+    "JL": {
+        "from": "J",
+        "to": "L",
+        "distanceInMeters": 4490,
+        "duration": 790
+    },
+    "LJ": {
+        "from": "L",
+        "to": "J",
+        "distanceInMeters": 4490,
+        "duration": 790
+    },
+    "JM": {
+        "from": "J",
+        "to": "M",
+        "distanceInMeters": 16507,
+        "duration": 2386
+    },
+    "MJ": {
+        "from": "M",
+        "to": "J",
+        "distanceInMeters": 16507,
+        "duration": 2386
+    },
+    "JN": {
+        "from": "J",
+        "to": "N",
+        "distanceInMeters": 12612,
+        "duration": 1519
+    },
+    "NJ": {
+        "from": "N",
+        "to": "J",
+        "distanceInMeters": 12612,
+        "duration": 1519
+    },
+    "JO": {
+        "from": "J",
+        "to": "O",
+        "distanceInMeters": 16449,
+        "duration": 2470
+    },
+    "OJ": {
+        "from": "O",
+        "to": "J",
+        "distanceInMeters": 16449,
+        "duration": 2470
+    },
+    "JP": {
+        "from": "J",
+        "to": "P",
+        "distanceInMeters": 8286,
+        "duration": 1393
+    },
+    "PJ": {
+        "from": "P",
+        "to": "J",
+        "distanceInMeters": 8286,
+        "duration": 1393
+    },
+    "JQ": {
+        "from": "J",
+        "to": "Q",
+        "distanceInMeters": 15404,
+        "duration": 2324
+    },
+    "QJ": {
+        "from": "Q",
+        "to": "J",
+        "distanceInMeters": 15404,
+        "duration": 2324
+    },
+    "JR": {
+        "from": "J",
+        "to": "R",
+        "distanceInMeters": 21053,
+        "duration": 2123
+    },
+    "RJ": {
+        "from": "R",
+        "to": "J",
+        "distanceInMeters": 21053,
+        "duration": 2123
+    },
+    "JS": {
+        "from": "J",
+        "to": "S",
+        "distanceInMeters": 7131,
+        "duration": 1195
+    },
+    "SJ": {
+        "from": "S",
+        "to": "J",
+        "distanceInMeters": 7131,
+        "duration": 1195
+    },
+    "JT": {
+        "from": "J",
+        "to": "T",
+        "distanceInMeters": 29920,
+        "duration": 3747
+    },
+    "TJ": {
+        "from": "T",
+        "to": "J",
+        "distanceInMeters": 29920,
+        "duration": 3747
+    },
+    "JU": {
+        "from": "J",
+        "to": "U",
+        "distanceInMeters": 20117,
+        "duration": 2534
+    },
+    "UJ": {
+        "from": "U",
+        "to": "J",
+        "distanceInMeters": 20117,
+        "duration": 2534
+    },
+    "KL": {
+        "from": "K",
+        "to": "L",
+        "distanceInMeters": 10611,
+        "duration": 1790
+    },
+    "LK": {
+        "from": "L",
+        "to": "K",
+        "distanceInMeters": 10611,
+        "duration": 1790
+    },
+    "KM": {
+        "from": "K",
+        "to": "M",
+        "distanceInMeters": 12150,
+        "duration": 1731
+    },
+    "MK": {
+        "from": "M",
+        "to": "K",
+        "distanceInMeters": 12150,
+        "duration": 1731
+    },
+    "KN": {
+        "from": "K",
+        "to": "N",
+        "distanceInMeters": 9478,
+        "duration": 1555
+    },
+    "NK": {
+        "from": "N",
+        "to": "K",
+        "distanceInMeters": 9478,
+        "duration": 1555
+    },
+    "KO": {
+        "from": "K",
+        "to": "O",
+        "distanceInMeters": 12093,
+        "duration": 1727
+    },
+    "OK": {
+        "from": "O",
+        "to": "K",
+        "distanceInMeters": 12093,
+        "duration": 1727
+    },
+    "KP": {
+        "from": "K",
+        "to": "P",
+        "distanceInMeters": 6562,
+        "duration": 1311
+    },
+    "PK": {
+        "from": "P",
+        "to": "K",
+        "distanceInMeters": 6562,
+        "duration": 1311
+    },
+    "KQ": {
+        "from": "K",
+        "to": "Q",
+        "distanceInMeters": 8282,
+        "duration": 1250
+    },
+    "QK": {
+        "from": "Q",
+        "to": "K",
+        "distanceInMeters": 8282,
+        "duration": 1250
+    },
+    "KR": {
+        "from": "K",
+        "to": "R",
+        "distanceInMeters": 17262,
+        "duration": 2034
+    },
+    "RK": {
+        "from": "R",
+        "to": "K",
+        "distanceInMeters": 17262,
+        "duration": 2034
+    },
+    "KS": {
+        "from": "K",
+        "to": "S",
+        "distanceInMeters": 7309,
+        "duration": 1306
+    },
+    "SK": {
+        "from": "S",
+        "to": "K",
+        "distanceInMeters": 7309,
+        "duration": 1306
+    },
+    "KT": {
+        "from": "K",
+        "to": "T",
+        "distanceInMeters": 18190,
+        "duration": 3255
+    },
+    "TK": {
+        "from": "T",
+        "to": "K",
+        "distanceInMeters": 18190,
+        "duration": 3255
+    },
+    "KU": {
+        "from": "K",
+        "to": "U",
+        "distanceInMeters": 8582,
+        "duration": 1955
+    },
+    "UK": {
+        "from": "U",
+        "to": "K",
+        "distanceInMeters": 8582,
+        "duration": 1955
+    },
+    "LM": {
+        "from": "L",
+        "to": "M",
+        "distanceInMeters": 13375,
+        "duration": 1978
+    },
+    "ML": {
+        "from": "M",
+        "to": "L",
+        "distanceInMeters": 13375,
+        "duration": 1978
+    },
+    "LN": {
+        "from": "L",
+        "to": "N",
+        "distanceInMeters": 13046,
+        "duration": 1474
+    },
+    "NL": {
+        "from": "N",
+        "to": "L",
+        "distanceInMeters": 13046,
+        "duration": 1474
+    },
+    "LO": {
+        "from": "L",
+        "to": "O",
+        "distanceInMeters": 13317,
+        "duration": 2019
+    },
+    "OL": {
+        "from": "O",
+        "to": "L",
+        "distanceInMeters": 13317,
+        "duration": 2019
+    },
+    "LP": {
+        "from": "L",
+        "to": "P",
+        "distanceInMeters": 5154,
+        "duration": 953
+    },
+    "PL": {
+        "from": "P",
+        "to": "L",
+        "distanceInMeters": 5154,
+        "duration": 953
+    },
+    "LQ": {
+        "from": "L",
+        "to": "Q",
+        "distanceInMeters": 12272,
+        "duration": 1897
+    },
+    "QL": {
+        "from": "Q",
+        "to": "L",
+        "distanceInMeters": 12272,
+        "duration": 1897
+    },
+    "LR": {
+        "from": "L",
+        "to": "R",
+        "distanceInMeters": 21487,
+        "duration": 2079
+    },
+    "RL": {
+        "from": "R",
+        "to": "L",
+        "distanceInMeters": 21487,
+        "duration": 2079
+    },
+    "LS": {
+        "from": "L",
+        "to": "S",
+        "distanceInMeters": 3999,
+        "duration": 725
+    },
+    "SL": {
+        "from": "S",
+        "to": "L",
+        "distanceInMeters": 3999,
+        "duration": 725
+    },
+    "LT": {
+        "from": "L",
+        "to": "T",
+        "distanceInMeters": 29424,
+        "duration": 3931
+    },
+    "TL": {
+        "from": "T",
+        "to": "L",
+        "distanceInMeters": 29424,
+        "duration": 3931
+    },
+    "LU": {
+        "from": "L",
+        "to": "U",
+        "distanceInMeters": 20552,
+        "duration": 2473
+    },
+    "UL": {
+        "from": "U",
+        "to": "L",
+        "distanceInMeters": 20552,
+        "duration": 2473
+    },
+    "MN": {
+        "from": "M",
+        "to": "N",
+        "distanceInMeters": 22831,
+        "duration": 3635
+    },
+    "NM": {
+        "from": "N",
+        "to": "M",
+        "distanceInMeters": 22831,
+        "duration": 3635
+    },
+    "MO": {
+        "from": "M",
+        "to": "O",
+        "distanceInMeters": 5229,
+        "duration": 719
+    },
+    "OM": {
+        "from": "O",
+        "to": "M",
+        "distanceInMeters": 5229,
+        "duration": 719
+    },
+    "MP": {
+        "from": "M",
+        "to": "P",
+        "distanceInMeters": 14312,
+        "duration": 2755
+    },
+    "PM": {
+        "from": "P",
+        "to": "M",
+        "distanceInMeters": 14312,
+        "duration": 2755
+    },
+    "MQ": {
+        "from": "M",
+        "to": "Q",
+        "distanceInMeters": 5452,
+        "duration": 757
+    },
+    "QM": {
+        "from": "Q",
+        "to": "M",
+        "distanceInMeters": 5452,
+        "duration": 757
+    },
+    "MR": {
+        "from": "M",
+        "to": "R",
+        "distanceInMeters": 30616,
+        "duration": 4371
+    },
+    "RM": {
+        "from": "R",
+        "to": "M",
+        "distanceInMeters": 30616,
+        "duration": 4371
+    },
+    "MS": {
+        "from": "M",
+        "to": "S",
+        "distanceInMeters": 15250,
+        "duration": 2843
+    },
+    "SM": {
+        "from": "S",
+        "to": "M",
+        "distanceInMeters": 15250,
+        "duration": 2843
+    },
+    "MT": {
+        "from": "M",
+        "to": "T",
+        "distanceInMeters": 61688,
+        "duration": 3245
+    },
+    "TM": {
+        "from": "T",
+        "to": "M",
+        "distanceInMeters": 61688,
+        "duration": 3245
+    },
+    "MU": {
+        "from": "M",
+        "to": "U",
+        "distanceInMeters": 22160,
+        "duration": 3663
+    },
+    "UM": {
+        "from": "U",
+        "to": "M",
+        "distanceInMeters": 22160,
+        "duration": 3663
+    },
+    "NO": {
+        "from": "N",
+        "to": "O",
+        "distanceInMeters": 23234,
+        "duration": 2922
+    },
+    "ON": {
+        "from": "O",
+        "to": "N",
+        "distanceInMeters": 23234,
+        "duration": 2922
+    },
+    "NP": {
+        "from": "N",
+        "to": "P",
+        "distanceInMeters": 6957,
+        "duration": 1234
+    },
+    "PN": {
+        "from": "P",
+        "to": "N",
+        "distanceInMeters": 6957,
+        "duration": 1234
+    },
+    "NQ": {
+        "from": "N",
+        "to": "Q",
+        "distanceInMeters": 16319,
+        "duration": 3140
+    },
+    "QN": {
+        "from": "Q",
+        "to": "N",
+        "distanceInMeters": 16319,
+        "duration": 3140
+    },
+    "NR": {
+        "from": "N",
+        "to": "R",
+        "distanceInMeters": 10997,
+        "duration": 1501
+    },
+    "RN": {
+        "from": "R",
+        "to": "N",
+        "distanceInMeters": 10997,
+        "duration": 1501
+    },
+    "NS": {
+        "from": "N",
+        "to": "S",
+        "distanceInMeters": 7530,
+        "duration": 1283
+    },
+    "SN": {
+        "from": "S",
+        "to": "N",
+        "distanceInMeters": 7530,
+        "duration": 1283
+    },
+    "NT": {
+        "from": "N",
+        "to": "T",
+        "distanceInMeters": 20293,
+        "duration": 2925
+    },
+    "TN": {
+        "from": "T",
+        "to": "N",
+        "distanceInMeters": 20293,
+        "duration": 2925
+    },
+    "NU": {
+        "from": "N",
+        "to": "U",
+        "distanceInMeters": 10490,
+        "duration": 1738
+    },
+    "UN": {
+        "from": "U",
+        "to": "N",
+        "distanceInMeters": 10490,
+        "duration": 1738
+    },
+    "OP": {
+        "from": "O",
+        "to": "P",
+        "distanceInMeters": 12548,
+        "duration": 2599
+    },
+    "PO": {
+        "from": "P",
+        "to": "O",
+        "distanceInMeters": 12548,
+        "duration": 2599
+    },
+    "OQ": {
+        "from": "O",
+        "to": "Q",
+        "distanceInMeters": 3689,
+        "duration": 538
+    },
+    "QO": {
+        "from": "Q",
+        "to": "O",
+        "distanceInMeters": 3689,
+        "duration": 538
+    },
+    "OR": {
+        "from": "O",
+        "to": "R",
+        "distanceInMeters": 28117,
+        "duration": 4143
+    },
+    "RO": {
+        "from": "R",
+        "to": "O",
+        "distanceInMeters": 28117,
+        "duration": 4143
+    },
+    "OS": {
+        "from": "O",
+        "to": "S",
+        "distanceInMeters": 13487,
+        "duration": 2680
+    },
+    "SO": {
+        "from": "S",
+        "to": "O",
+        "distanceInMeters": 13487,
+        "duration": 2680
+    },
+    "OT": {
+        "from": "O",
+        "to": "T",
+        "distanceInMeters": 57277,
+        "duration": 3468
+    },
+    "TO": {
+        "from": "T",
+        "to": "O",
+        "distanceInMeters": 57277,
+        "duration": 3468
+    },
+    "OU": {
+        "from": "O",
+        "to": "U",
+        "distanceInMeters": 17380,
+        "duration": 2924
+    },
+    "UO": {
+        "from": "U",
+        "to": "O",
+        "distanceInMeters": 17380,
+        "duration": 2924
+    },
+    "PQ": {
+        "from": "P",
+        "to": "Q",
+        "distanceInMeters": 8788,
+        "duration": 2122
+    },
+    "QP": {
+        "from": "Q",
+        "to": "P",
+        "distanceInMeters": 8788,
+        "duration": 2122
+    },
+    "PR": {
+        "from": "P",
+        "to": "R",
+        "distanceInMeters": 14500,
+        "duration": 2393
+    },
+    "RP": {
+        "from": "R",
+        "to": "P",
+        "distanceInMeters": 14500,
+        "duration": 2393
+    },
+    "PS": {
+        "from": "P",
+        "to": "S",
+        "distanceInMeters": 2176,
+        "duration": 346
+    },
+    "SP": {
+        "from": "S",
+        "to": "P",
+        "distanceInMeters": 2176,
+        "duration": 346
+    },
+    "PT": {
+        "from": "P",
+        "to": "T",
+        "distanceInMeters": 25014,
+        "duration": 3947
+    },
+    "TP": {
+        "from": "T",
+        "to": "P",
+        "distanceInMeters": 25014,
+        "duration": 3947
+    },
+    "PU": {
+        "from": "P",
+        "to": "U",
+        "distanceInMeters": 13994,
+        "duration": 2552
+    },
+    "UP": {
+        "from": "U",
+        "to": "P",
+        "distanceInMeters": 13994,
+        "duration": 2552
+    },
+    "QR": {
+        "from": "Q",
+        "to": "R",
+        "distanceInMeters": 25706,
+        "duration": 3749
+    },
+    "RQ": {
+        "from": "R",
+        "to": "Q",
+        "distanceInMeters": 25706,
+        "duration": 3749
+    },
+    "QS": {
+        "from": "Q",
+        "to": "S",
+        "distanceInMeters": 9975,
+        "duration": 2215
+    },
+    "SQ": {
+        "from": "S",
+        "to": "Q",
+        "distanceInMeters": 9975,
+        "duration": 2215
+    },
+    "QT": {
+        "from": "Q",
+        "to": "T",
+        "distanceInMeters": 24576,
+        "duration": 3771
+    },
+    "TQ": {
+        "from": "T",
+        "to": "Q",
+        "distanceInMeters": 24576,
+        "duration": 3771
+    },
+    "QU": {
+        "from": "Q",
+        "to": "U",
+        "distanceInMeters": 14969,
+        "duration": 2509
+    },
+    "UQ": {
+        "from": "U",
+        "to": "Q",
+        "distanceInMeters": 14969,
+        "duration": 2509
+    },
+    "RS": {
+        "from": "R",
+        "to": "S",
+        "distanceInMeters": 12583,
+        "duration": 2194
+    },
+    "SR": {
+        "from": "S",
+        "to": "R",
+        "distanceInMeters": 12583,
+        "duration": 2194
+    },
+    "RT": {
+        "from": "R",
+        "to": "T",
+        "distanceInMeters": 23203,
+        "duration": 3509
+    },
+    "TR": {
+        "from": "T",
+        "to": "R",
+        "distanceInMeters": 23203,
+        "duration": 3509
+    },
+    "RU": {
+        "from": "R",
+        "to": "U",
+        "distanceInMeters": 13400,
+        "duration": 2270
+    },
+    "UR": {
+        "from": "U",
+        "to": "R",
+        "distanceInMeters": 13400,
+        "duration": 2270
+    },
+    "ST": {
+        "from": "S",
+        "to": "T",
+        "distanceInMeters": 26150,
+        "duration": 3658
+    },
+    "TS": {
+        "from": "T",
+        "to": "S",
+        "distanceInMeters": 26150,
+        "duration": 3658
+    },
+    "SU": {
+        "from": "S",
+        "to": "U",
+        "distanceInMeters": 15130,
+        "duration": 2215
+    },
+    "US": {
+        "from": "U",
+        "to": "S",
+        "distanceInMeters": 15130,
+        "duration": 2215
+    },
+    "TU": {
+        "from": "T",
+        "to": "U",
+        "distanceInMeters": 10263,
+        "duration": 1409
+    },
+    "UT": {
+        "from": "U",
+        "to": "T",
+        "distanceInMeters": 10263,
+        "duration": 1409
+    }
+}
