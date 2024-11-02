@@ -136,9 +136,8 @@
 
         const startingPoint = [ 40.37328, 49.7945];
         L.marker(startingPoint).addTo(map).bindPopup(`Starting Point: Elmler`).openPopup();
-
-        fetch('https://urbanhack.onrender.com/').then(async (res) => {
-
+        console.log("Starting to fetch");
+        fetch('https://urbanhack.onrender.com/api/routes').then(async (res) => {
           const finalRoutes = (await res.json()).optimalRoutes;
           console.log("Fetched", finalRoutes);
 
