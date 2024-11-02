@@ -44,7 +44,7 @@ function getRoute(origin, destination) {
     })
   }
 
-  async function fetch() {
+  async function fetchA() {
     // const originPoint = { latitude: 37.419734, longitude: -122.0827784 };
     // const destinationPoint = { latitude: 37.417670, longitude: -122.079595 };
     // const result = await(await getRoute(originPoint, destinationPoint)).json();

@@ -65,7 +65,7 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000
 
 app.get('/api/routes', (req, res, next) => {
   const startingVertexOfMST = Object.values(distances)
@@ -123,5 +123,3 @@ app.get('/api/routes', (req, res, next) => {
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
-
-exports.app = functions.https.onRequest(app);
